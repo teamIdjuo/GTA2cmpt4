@@ -1,0 +1,32 @@
+{
+         "our_ads1_activation":"false",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/111.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+    "our_ads2_activation":"false",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/22.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+    "our_ads3_activation":"false",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+    "our_ads_inter_activation":"false",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_rewarded_video": "",
+
+  "unity_app_id": "5470215",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded_video": "Rewarded_Android",
+
+  "appLovin_app_id": "",
+  "appLovin_banner": "c81a058f25eaa440",
+  "appLovin_interstitial": "a8d494940e48c2ea",
+  "appLovin_rewarded_video": "2cfb1f3d3b32ceff"
+}
