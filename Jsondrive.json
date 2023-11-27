@@ -15,10 +15,10 @@
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
-  "admob_rewarded_video": "",
+  "admob_app_id": "ca-app-pub-2033079489526847~2135403271",
+  "admob_banner": "ca-app-pub-2033079489526847/5636552631",
+  "admob_interstitial": "ca-app-pub-2033079489526847/4908088038",
+  "admob_rewarded_video": "ca-app-pub-2033079489526847/9010984572",
 
   "unity_app_id": "5470230",
   "unity_banner": "Banner_Android",
